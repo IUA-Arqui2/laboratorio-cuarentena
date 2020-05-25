@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/demouser/media/disk/_home_martin_datos_git_Facultad_IUA_Arqui2_cuarentena_proyectoASM/proyectoASM.s
+

@@ -15,9 +15,9 @@ typedef struct {
     uint8_t frame;     // 8
 } st_control;
 
-#include "test.h"
+//#include "test.h"
 
-//extern "C" void miMain(uint32_t *pixels, st_control *c);
+extern "C" void miMain(uint32_t *pixels, st_control *c);
 
 const unsigned int width = 320;
 const unsigned int height = 240;
