@@ -1,3 +1,0 @@
-/home/demouser/media/disk/_home_martin_datos_git_Facultad_IUA_Arqui2_cuarentena_proyectoASM/build/CMakeFiles/rebuild_cache.dir
-/home/demouser/media/disk/_home_martin_datos_git_Facultad_IUA_Arqui2_cuarentena_proyectoASM/build/CMakeFiles/proyectoASM.dir
-/home/demouser/media/disk/_home_martin_datos_git_Facultad_IUA_Arqui2_cuarentena_proyectoASM/build/CMakeFiles/edit_cache.dir
